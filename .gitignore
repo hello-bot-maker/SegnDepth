@@ -1,0 +1,27 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Model weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Package builds
+build/
+dist/
+*.egg-info/
+
